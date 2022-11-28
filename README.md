@@ -1,1 +1,1 @@
-# matplotlib-creating-static-animated-and-visualization-in-python
+#matplotlib_creating_static_Animated_and_interactive_visulaization
